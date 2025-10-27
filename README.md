@@ -56,4 +56,4 @@ account_no,name,balance,pin
 ## Authors
 
 - [Samaan Sayed](https://github.com/samaanl)
-- [Appa](https://github.com/[appa-github-username])
+- [Apa](https://github.com/Apamestry)
